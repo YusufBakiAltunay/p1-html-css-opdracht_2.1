@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+
+
+.kat{
+    color: aqua;
+}
+
+a{
+    text-decoration: none;
+    background-color:green;
+    color: red;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+a:hover{
+    background-color: blue;
+}
